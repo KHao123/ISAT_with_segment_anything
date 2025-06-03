@@ -1,0 +1,7 @@
+label:
+- color: '#000000'
+  name: __background__
+- color: '#ef2929'
+  name: pick
+- color: '#fcaf3e'
+  name: place
